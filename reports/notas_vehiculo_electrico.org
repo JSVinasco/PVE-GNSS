@@ -1,0 +1,97 @@
+
+
+
+
+* Findigs
+
+* Development
+
+* Journal
+
+
+** dia 1: 06/08/2021
+
+Pablo Torres
+10:41
+GPRMC
+DDM
+Pablo Torres
+10:42
+NMEA
+Tú
+10:46
+Qgis
+Tú
+10:51
+gps bu-353s4
+
+
+Tarea Geo 1 : Mapa de puntos
+Tarea Geo 2 : Mapa de velocidades (con vectores)
+Tarea Geo 3 : Posprocesamiento
+Tarea Geo 4 : Presentación
+Tarea Geo 5 : Analisis del equipo que tienen en el vehiculo
+del carro electrico
+
+Tarea Pablo: leer todos los mensajes de NMEA y enviarlos a uds
+Tarea Pablo:  Gestionar permisos de ingreso
+
+
+
+* Conclusion
+
+
+
+* References
+
+
+ [[https://valhalla.readthedocs.io/en/latest/api/map-matching/api-reference/][Valhalla Documentation]]
+
+[[https://wheregroup.com/unternehmen/infobrief/infobrief-01-20-valhalla-open-source-routing-machine-erfahrungen/][Valhalla intro]]
+
+[[https://wiki.openstreetmap.org/wiki/Routing][Routing OSM]]
+
+[[https://www.mapzen.com/products/mobility/turn-by-turn/?d=0&lat=40.7259&lng=-73.9805&z=12&c=bicycle&st_lat=55.69&st_lng=12.595&st=Kastellet&end_lat=55.67&end_lng=12.593&end=Stadsgraven&use_bus=&use_rail=&use_transfers=&dt=&dt_type=][Ejemplo de Valhalla Geoportal]]
+
+
+[[http://valhalla.github.io/demos/routing/#loc=13,40.750183,-73.947172][Leaflet Valhalla Ejemplo]]
+
+
+[[https://curiosio.medium.com/geo-engine-abb824bbbd94][GEo Engine part 1]]
+
+[[https://curiosio.medium.com/routing-technology-68925a40bbac][GEo Engine part 2: Routing Technology]]
+
+[[https://www.interline.io/valhalla/][Valhalla simple intro]]
+
+
+
+
+
+
+
+
+
+
+
+  
+
+[[https://dewesoft.com/products/interfaces-and-sensors/gps-and-imu-devices][]]
+
+[[https://drive.google.com/file/d/1RifwLAbMfWoXgHZgmuYGwWAXJF_Aoge_/view][]]
+
+[[https://www.unavco.org/software/data-processing/teqc/teqc.html][]]
+
+[[][GPRMC GPS]]
+
+[[https://www.rfwireless-world.com/Terminology/GPS-sentences-or-NMEA-sentences.html][]]
+
+[[https://www.gpsworld.com/what-exactly-is-gps-nmea-data/][]]
+
+[[https://gis.stackexchange.com/questions/274965/postprocessing-with-nmea-data-if-no-rinex-data-is-available][]]
+
+
+
+[[][]]
+
+
+[[https://valhalla.readthedocs.io/en/latest/api/map-matching/api-reference/][Valhalla Documentation]]
